@@ -57,12 +57,6 @@ streamlit run app.py
 Open in Browser
 The app will open at:
 
-arduino
-Copy
-Edit
-http://localhost:8501
-Enter YouTube URL
-Paste the YouTube video link in the input field and click Summarize.
 
 🧠 How It Works
 Step 1: User enters a YouTube URL.
